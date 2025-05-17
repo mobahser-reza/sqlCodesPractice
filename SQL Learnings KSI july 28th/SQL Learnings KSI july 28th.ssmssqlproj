@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Learnings KSI july 28th">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="NISHAT:NISHAT\USER">
+          <Created>2023-09-30T16:33:53.0869111+06:00</Created>
+          <Type>SQL</Type>
+          <Server>NISHAT</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="11-8-23_6th_aggregation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11-8-23_6th_aggregation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12-8-23_7th_pk and fk .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12-8-23_7th_pk and fk .sql</FullPath>
+        </FileNode>
+        <FileNode Name="13-10-23_Data Warehouse.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13-10-23_Data Warehouse.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14-10-23_Homework and PowerBI.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14-10-23_Homework and PowerBI.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16-9-23_drived table and window function.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16-9-23_drived table and window function.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18-8-23_join_tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18-8-23_join_tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19-8-23_join_two_tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>19-8-23_join_two_tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20-10-23_PowerBI class01.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20-10-23_PowerBI class01.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23-9-23_concatenation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>23-9-23_concatenation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25-8-23_join 7 table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>25-8-23_join 7 table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25-8-23_Other 5 tables pk fk  query.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>25-8-23_Other 5 tables pk fk  query.sql</FullPath>
+        </FileNode>
+        <FileNode Name="26-8-23_commands.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>26-8-23_commands.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2-8-23-3rd class_discussion.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2-8-23-3rd class_discussion.sql</FullPath>
+        </FileNode>
+        <FileNode Name="28-7-23-create db 1st class.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>28-7-23-create db 1st class.sql</FullPath>
+        </FileNode>
+        <FileNode Name="28-8-23_Views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>28-8-23_Views.sql</FullPath>
+        </FileNode>
+        <FileNode Name="29-7-23_2nd_create_table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>29-7-23_2nd_create_table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="29-9-23_Variables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>29-9-23_Variables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30-9-23_Index and constraints.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>30-9-23_Index and constraints.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4-8-23-4th class_sql service and other.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4-8-23-4th class_sql service and other.sql</FullPath>
+        </FileNode>
+        <FileNode Name="6-10-23_StoreProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>6-10-23_StoreProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="7-10-23_store procedure and date.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>7-10-23_store procedure and date.sql</FullPath>
+        </FileNode>
+        <FileNode Name="8-9-23_Temp table and Union.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>8-9-23_Temp table and Union.sql</FullPath>
+        </FileNode>
+        <FileNode Name="9-9-23_Subqueries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>9-9-23_Subqueries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create department table_5-8-23.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create department table_5-8-23.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create employee table_5-8-23.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create employee table_5-8-23.sql</FullPath>
+        </FileNode>
+        <FileNode Name="HomeWork_01.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>HomeWork_01.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Homework2_module1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Homework2_module1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="homework3_module1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>homework3_module1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="homework3_module2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>homework3_module2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="homework5_module_2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>homework5_module_2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="homework6_module_2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>homework6_module_2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="practice_multiple insertions with one insert into statement.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NISHAT:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NISHAT</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>practice_multiple insertions with one insert into statement.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
